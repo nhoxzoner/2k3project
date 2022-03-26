@@ -1,5 +1,4 @@
 # 2k3project
-Mobile Develop
-Create with React Native 
+Mobile Develop create with React Native 
 
 Current topic : Map - Flatlist - ScrollView - SectionList ( + Demo )
